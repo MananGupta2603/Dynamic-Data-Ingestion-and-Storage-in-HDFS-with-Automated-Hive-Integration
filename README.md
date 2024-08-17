@@ -12,7 +12,7 @@ This project fetching data from an external source, storing it in Hadoop Distrib
 - **wget/curl**: For downloading data from the web.
 
 ## Workflow
-![](workflow.png)
+![](workflow.jpg)
 
 ## Steps
 1) Install hadoop and hive.
