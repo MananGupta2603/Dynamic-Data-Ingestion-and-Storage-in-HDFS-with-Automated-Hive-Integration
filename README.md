@@ -40,7 +40,10 @@ wget https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/cities/t
 
 8) Run sql queries and perform operation
    
-**Note:** All the screenshots are uploaded,so you can refer to understand more.[ScreenShot](images)
-## Official Documentation::
+**Note:** All the screenshots are uploaded,so you can refer to understand more.- [ScreenShot](images)
+
+**To perform all tasks i created [bash](autoscript.sh) file.**
+
+## Official Documentation:
 - [Apache Hadoop](https://hadoop.apache.org/docs/current/)
 - [Apache Hive](https://cwiki.apache.org/confluence/display/Hive/)
