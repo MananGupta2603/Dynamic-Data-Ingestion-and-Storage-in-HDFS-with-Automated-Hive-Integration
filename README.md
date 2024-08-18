@@ -35,7 +35,7 @@ wget https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/cities/t
     - Use sql commands like create,delete,insert,etc.
       
 7) Load file in the table.
-    - *Note:* run this command in hive and rename table name.
+    - *Note:* run below command in hive and rename table name.
       
   ```
       LOAD DATA INPATH /user/project/dataset/sub-est2023_10.csv INTO TABLE population_data;
